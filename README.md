@@ -1,32 +1,22 @@
-# My BA Portfolio
+# MY PORTFOLIO 📈
 
 In this repository I compile the projects that I have been preparing during my learning path in the areas of business analysis, data analysis and visualization, and database management, as well as during the practice of different tools and programming languages.
 
-## Table of contents
-1. Sales Analysis Dashboard.
-2. Inventory Management System.
-3. Restaurant Tips.
-4. Customer Churn Analysis.
-5. HR Analytics Dashboard.
-6. Retail Sales Visualizations.
-7. Marketing Campaign Effectiveness.
-8. e-Fixed Deposits for ABC Bank.
+## Contents
+* ### Excel Projects
+1. [*Sales Analysis Dashboard.*]()
+2. [*Inventory Management System.*]()
 
-- [General Info](#general-info)
-- [Technologies](#technologies)
-- [Status](#status)
----
+* ### Power BI Projects
+1. [*Customer Churn Analysis.*]()
+2. [*HR Analytics Dashboard.*]()
 
-### General Info
-The aim of this project was to design a sales dashboard that analyses the sales based on various product categories, adding an interactive feature that allows users to select a product category and see the trend month-wise and product-wise accordingly.
+* ### Tableau Projects
+1. [*Retail Sales Visualizations.*]()
+2. [*Marketing Campaign Effectiveness.*]()
 
+* ### Business Analysis Projects
+1. [*e-Fixed Deposits for ABC Bank.*]()
 
-### Technologies
-I have used MySQL
-```sql
-SELECT * FROM employees
-WHERE cond = 2
-```
-
-### Status
-The project has been reviewed and approved.
+* ### Challeges
+1. [*Restaurant Tips Prediction Model*]()
