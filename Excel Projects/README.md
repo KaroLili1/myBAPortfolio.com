@@ -14,7 +14,7 @@ In the execution of this project I implemented some Excel 365 formulas and funct
 
 The dataset used for this project was provided by [Simplilearn](https://www.simplilearn.com/) in the Post Graduate Program in Business Analysis.  You can access the Excel file at this [link]().
 
-In the Excel workbook [MyeCommerceDashboard.xlsx]() you will find the dataset already cleaned, followed by the dashboard, the Pivot table and the "Working" sheet where I applied the functions and formulas for this project.
+In the Excel workbook [MyeCommerceDashboard.xlsx](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/Excel%20Projects/MyeCommerce%20Dashboard%20Project.xlsx) you will find the dataset already cleaned, followed by the dashboard, the Pivot table and the "Working" sheet where I applied the functions and formulas for this project.
 - - -
 
 ### **Tasks I have performed for this project**
