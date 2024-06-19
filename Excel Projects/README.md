@@ -1,7 +1,7 @@
 # Sales Analysis Dashboard
 
 - [General Info](#general-info)
-- [Technologies](#technologies)
+- [Technologies](https://github.com/KaroLili1/myBAPortfolio.com/tree/main/Excel%20Projects#technologies)
 - [Tasks I have performed for this project](https://github.com/KaroLili1/myBAPortfolio.com/tree/main/Excel%20Projects#tasks-i-have-performed-for-this-project)
 ---
 
