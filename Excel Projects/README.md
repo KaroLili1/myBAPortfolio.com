@@ -2,7 +2,7 @@
 
 - [General Info](#general-info)
 - [Technologies](#technologies)
-- [Tasks I have performed for this project](#tasks-performed-for-this-project)
+- [Tasks I have performed for this project](https://github.com/KaroLili1/myBAPortfolio.com/tree/main/Excel%20Projects#tasks-i-have-performed-for-this-project))
 ---
 
 ### **General Info**
