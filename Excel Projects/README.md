@@ -12,7 +12,7 @@ The objective of this project was to design a sales dashboard for the year 2015 
 ### **Technologies**
 In the execution of this project I implemented some Excel 365 formulas and functions such as SUMIFS, INDEX, OFFSET, UNIQUE, Subtotals and Combo box, to calculate the desired metrics and add the required features for the design of the interactive dashboard.
 
-The dataset used for this project was provided by [Simplilearn](https://www.simplilearn.com/) in the Post Graduate Program in Business Analysis.  You can access the Excel file at this [link](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/Excel%20Projects/MyeCommerce%20Dashboard%20Project.xlsx) (Click on the Raw View or download the file).
+The dataset used for this project was provided by [Simplilearn](https://www.simplilearn.com/) in the Post Graduate Program in Business Analysis.  You can access the Excel file at this [link](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/Excel%20Projects/MyeCommerce%20Dashboard%20Project.xlsx)  (Click on the View raw or download the file).
 
 In the Excel workbook My eCommerce Dashboard Project.xlsx you will find the dataset already cleaned, followed by the dashboard, the Pivot table and the "Working" sheet where I applied the functions and formulas for this project.
 - - -
