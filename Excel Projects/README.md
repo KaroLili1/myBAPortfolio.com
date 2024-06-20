@@ -18,14 +18,14 @@ In the Excel workbook My eCommerce Dashboard Project.xlsx you will find the data
 - - -
 
 ### **Tasks I have performed for this project**
-* Look over and clean the sales data, including sales performance by region, units sold and profit margins.
-* Prepare a table of Sales and Profit Month-wise.
-* Prepare the Sales table Region-wise.
-* Create User Control combo box for Product Category.
-* Create a column chart of the Month-wise table and Region-wise table.
-* Create a Pivot table to summarize the data and calculate key metrics like month-over-month growth.
-* Design interactive charts and visualizations, such as column charts, line graph, pie and Pareto charts, to display the sales data.
-* Organize the dashboard layout and add interactive features such as linked form controls and filters that allow users to explore the data.
+- [x] Look over and clean the sales data, including sales performance by region, units sold and profit margins.
+- [x] Prepare a table of Sales and Profit Month-wise.
+- [x] Prepare the Sales table Region-wise.
+- [x] Create User Control combo box for Product Category.
+- [x] Create a column chart of the Month-wise table and Region-wise table.
+- [x] Create a Pivot table to summarize the data and calculate key metrics like month-over-month growth.
+- [x] Design interactive charts and visualizations, such as column charts, line graph, pie and Pareto charts, to display the sales data.
+- [x] Organize the dashboard layout and add interactive features such as linked form controls and filters that allow users to explore the data.
 
 You can download the final Sales Analysis Dashboard of this project here 👉 [pdf](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/Excel%20Projects/MyeCommerce%20Dashboard%20Project.pdf) or [png](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/Excel%20Projects/Dashboard_Sales.png).
 
