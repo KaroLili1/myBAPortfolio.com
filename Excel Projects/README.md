@@ -27,5 +27,5 @@ In the Excel workbook My eCommerce Dashboard Project.xlsx you will find the data
 * Design interactive charts and visualizations, such as column charts, line graph, pie and Pareto charts, to display the sales data.
 * Organize the dashboard layout and add interactive features such as linked form controls and filters that allow users to explore the data.
 
-In this [pdf](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/Excel%20Projects/MyeCommerce%20Dashboard%20Project.pdf) or [png](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/Excel%20Projects/Dashboard_Sales.png) files you can see the final result (Dashboard) of this project.
-![Dashboard_Sales](https://github.com/KaroLili1/myBAPortfolio.com/assets/155495785/37474f50-28fc-430c-8011-29a6ced1eb98)
+You can download the final Sales Analysis Dashboard of this project here 👉 [pdf](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/Excel%20Projects/MyeCommerce%20Dashboard%20Project.pdf) or [png](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/Excel%20Projects/Dashboard_Sales.png).
+
