@@ -30,3 +30,4 @@ In the Excel workbook My eCommerce Dashboard Project.xlsx you will find the data
 > [!IMPORTANT]
 > You can download the final Sales Analysis Dashboard of this project here 👉 [pdf](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/Excel%20Projects/MyeCommerce%20Dashboard%20Project.pdf) or [png](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/Excel%20Projects/Dashboard_Sales.png).
 
+
