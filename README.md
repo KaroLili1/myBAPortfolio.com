@@ -19,7 +19,7 @@ In this repository I compile the projects that I have been preparing during my l
 2. [*Marketing Campaign Effectiveness.*]
 
 * ### Business Analysis Projects
-1. [*Library Management System for Stanford University.*]()
+1. [*Library Management System for Stanford University.*](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/BA_Projects/README.md#library-management-system-for-stanford-university)
 2. [*e-Fixed Deposits for ABC Bank.*]
 
 * ### Challeges
