@@ -5,7 +5,7 @@ In this repository I compile the projects that I have been preparing during my l
 > [!NOTE]
 > You can click on any of the projects below to explore them in more detail.
 
-## Contents
+## CONTENTS
 * ### Excel Projects
 1. [*Sales Analysis Dashboard.*](https://github.com/KaroLili1/myBAPortfolio.com/tree/main/Excel%20Projects#sales-analysis-dashboard)
 2. [*Inventory Management System.*]()
