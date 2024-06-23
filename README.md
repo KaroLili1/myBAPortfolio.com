@@ -8,18 +8,19 @@ In this repository I compile the projects that I have been preparing during my l
 ## CONTENTS
 * ### Excel Projects
 1. [*Sales Analysis Dashboard.*](https://github.com/KaroLili1/myBAPortfolio.com/tree/main/Excel%20Projects#sales-analysis-dashboard)
-2. [*Inventory Management System.*]()
+2. [*Inventory Management System.*]
 
 * ### Power BI Projects
-1. [*Customer Churn Analysis.*]()
-2. [*HR Analytics Dashboard.*]()
+1. [*Customer Churn Analysis.*]
+2. [*HR Analytics Dashboard.*]
 
 * ### Tableau Projects
-1. [*Retail Sales Visualizations.*]()
-2. [*Marketing Campaign Effectiveness.*]()
+1. [*Retail Sales Visualizations.*]
+2. [*Marketing Campaign Effectiveness.*]
 
 * ### Business Analysis Projects
-1. [*e-Fixed Deposits for ABC Bank.*]()
+1. [*Library Management System for Stanford University.*]()
+2. [*e-Fixed Deposits for ABC Bank.*]
 
 * ### Challeges
-1. [*Restaurant Tips Prediction Model*]()
+1. [*Restaurant Tips Prediction Model.*]
