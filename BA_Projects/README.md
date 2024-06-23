@@ -2,7 +2,7 @@
 
 - [General Info](https://github.com/KaroLili1/myBAPortfolio.com/tree/main/BA_Projects#general-info))
 - [Technologies](https://github.com/KaroLili1/myBAPortfolio.com/tree/main/BA_Projects#technologies))
-- [Tasks I have performed for this project](#status)
+- [Tasks I have performed for this project](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/BA_Projects/README.md#tasks-i-have-performed-for-this-project))
 - - -
 
 ### General Info
