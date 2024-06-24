@@ -1,8 +1,8 @@
 # Library Management System for Stanford University. ![Best-Database-Diagram-Tools](https://github.com/KaroLili1/myBAPortfolio.com/assets/155495785/457d6a4e-67b6-4b18-9cbb-f4e562f569d9)
 <br />
 
-- [General Info](https://github.com/KaroLili1/myBAPortfolio.com/tree/main/BA_Projects#general-info)
-- [Technologies](https://github.com/KaroLili1/myBAPortfolio.com/tree/main/BA_Projects#technologies)
+- [General Info](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/BA_Projects/README.md#general-info)
+- [Technologies](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/BA_Projects/README.md#technologies)
 - [Tasks I have performed for this project](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/BA_Projects/README.md#tasks-i-have-performed-for-this-project)
 - - -
 
