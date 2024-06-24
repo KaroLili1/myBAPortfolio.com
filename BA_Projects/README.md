@@ -43,8 +43,12 @@ The tools I used in this project were:
 ✔️ Determine the Business Requirements both Functional and Nonfunctional.<br />
 ✔️ Design the content and functionalities of the system in a mock-up view of the software.<br />
 
+> [!NOTE]
+> You can download the final Sales Analysis Dashboard of this project here 👉 [pdf](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/BA_Projects/LIBRARY%20MANAGEMENT%20SYSTEM%20FOR%20STANFORD_Karol.pdf)<br >
+<br />
+
 ![ER Diagram](https://github.com/KaroLili1/myBAPortfolio.com/assets/155495785/db4edd2e-9e74-4241-acd8-8594ab447fc7)
 
 ![Mockup Mobile](https://github.com/KaroLili1/myBAPortfolio.com/assets/155495785/475de3f6-6eb1-40db-b4ef-217396c18ba3)
 
-🔙Back to Table of Contents
+🔙 Back to [Table of Contents](https://github.com/KaroLili1/myBAPortfolio.com)
