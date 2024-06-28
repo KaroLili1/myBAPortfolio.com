@@ -1,4 +1,4 @@
-# Employee Performance Metrics
+# Employee Performance Metrics  ![logo-mysql-mysql-logo-png-images-are-download-crazypng-1](https://github.com/KaroLili1/myBAPortfolio.com/assets/155495785/d61c708f-fcdc-41c4-b2f2-d141790c6455)
 
 - [General Info]()
 - [Technologies]()
@@ -14,7 +14,7 @@ The aim of this project
 - - -
 
 ### **Tasks I have performed for this project**
-✔️ Look over and clean the sales data, including sales performance by region, units sold and profit margins.<br />
+✔️ Lo.<br />
 
 
 ![Employee EERD](https://github.com/KaroLili1/myBAPortfolio.com/assets/155495785/8b69f853-c17c-4274-8a2b-c24f07f3183e)
