@@ -12,7 +12,7 @@ In this repository I compile the projects that I have been preparing during my l
 3. [*Restaurant Tips Forecast.*]
 
 * ### MySQL Projects
-1. [*Employee Performance Metrics.*]
+1. [*Employee Performance Metrics.*](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/MySQL/README.md#employee-performance-metrics--)
 2. [*Sales Data Analysis.*]
 3. [*COVIT-19 Data Exploratioin.*]
 4. [*Customer Segmentation.*]
