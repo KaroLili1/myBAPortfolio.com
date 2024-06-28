@@ -9,10 +9,19 @@ In this repository I compile the projects that I have been preparing during my l
 * ### Excel Projects
 1. [*Sales Analysis Dashboard.*](https://github.com/KaroLili1/myBAPortfolio.com/tree/main/Excel%20Projects#sales-analysis-dashboard)
 2. [*Inventory Management System.*]
+3. [*Restaurant Tips Forecast.*]
+
+* ### MySQL Projects
+1. [*Employee Performance Metrics.*]
+2. [*Sales Data Analysis.*]
+3. [*COVIT-19 Data Exploratioin.*]
+4. [*Customer Segmentation.*]
+5. [*Brazil E-Commerce Sales Analysis.*]
 
 * ### Power BI Projects
-1. [*Customer Churn Analysis.*]
-2. [*HR Analytics Dashboard.*]
+1. [*Zomato Data Exploration & Analysis.*]
+2. [*Customer Churn Analysis.*]
+3. [*HR Analytics Dashboard.*]
 
 * ### Tableau Projects
 1. [*Retail Sales Visualizations.*]
@@ -23,4 +32,8 @@ In this repository I compile the projects that I have been preparing during my l
 2. [*e-Fixed Deposits for ABC Bank.*]
 
 * ### Challeges
-1. [*Restaurant Tips Prediction Model.*]
+1. Data Warehouse Implementation.
+2. Real-Time Data Integration.
+3. Data Migration.
+4. Multi-Source Integration.
+5. Data Quality Management.
