@@ -62,7 +62,7 @@ ORDER BY EMP_BONUS DESC;
 ✔️ Visualization. Create charts in PBI to better present analysis results and provide deeper insights. <br />
 <br />
 > [!NOTE]
-> You can download the final ScenceQtech Employee Performance Mapping Project here 👉 [pdf]
+> You can download the final ScenceQtech Employee Performance Mapping Project here 👉 [pdf](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/MySQL/Project1SQL.pdf)
 <br />
 
 **EERD of Employee's database designed by me in MySQL**
