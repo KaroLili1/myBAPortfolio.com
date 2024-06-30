@@ -6,11 +6,14 @@
 ---
 
 ### **General Info**
-The aim of this project 
+
+This project aims to deliver a detailed report that identifies key performance indicators, discovers trends and provides data-based recommendations that support the strategic decision making of HR professionals, optimize the allocation of resources in accordance with the organization's standards, and foster a high-performance work culture in employees.
 - - -
 
 ### **Technologies**
+The data sets were provided by Simplilearn in the [Postgraduate in Business Analysis](https://www.simplilearn.com/pgp-business-analysis-certification-training-course) that I completed and which you can download for review 👉 [here] (3 CSV files).
 
+For Exploratory Data Analysis I used several aggregate functions, such as COUNT(), AVG(), MIN(), MAX(),ROUND() and CONCAT(); operators such as BETWEEN, AND, LIKE, UNION.  Also I applied IF-THEN-ELSEIF statements to execute some logical conditions; Joins to combine data from different tables, and other codes like Stored Procedures, Stored Functions, Views, Indexes, Query Execution Plan to improve database performance.
 - - -
 
 ### **Tasks I have performed for this project**
