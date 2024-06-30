@@ -11,7 +11,7 @@ This project aims to deliver a detailed report that identifies key performance i
 - - -
 
 ### **Technologies**
-The data sets were provided by Simplilearn in the [Post Graduate Program in Business Analysis](https://www.simplilearn.com/pgp-business-analysis-certification-training-course) that I completed and which you can download for review 👉 [here] (3 CSV files).
+The data sets were provided by Simplilearn in the [Post Graduate Program in Business Analysis](https://www.simplilearn.com/pgp-business-analysis-certification-training-course) that I completed and which you can download for review 👉 [here](MySQL) (3 CSV files).
 
 For Exploratory Data Analysis I used several aggregate functions, such as COUNT(), AVG(), MIN(), MAX(),ROUND() and CONCAT(); operators such as BETWEEN, AND, LIKE, UNION.  Also I applied IF-THEN-ELSEIF statements to execute some logical conditions; Joins to combine data from different tables, and other codes like Stored Procedures, Stored Functions, Views, Indexes, Query Execution Plan to improve database performance.
 - - -
