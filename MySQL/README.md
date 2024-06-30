@@ -1,4 +1,4 @@
-# Employee Performance Metrics  ![logo-mysql-mysql-logo-png-images-are-download-crazypng-1](https://github.com/KaroLili1/myBAPortfolio.com/assets/155495785/d61c708f-fcdc-41c4-b2f2-d141790c6455)
+# ScienceQtech Employee Performance Mapping   ![logo-mysql-mysql-logo-png-images-are-download-crazypng-1](https://github.com/KaroLili1/myBAPortfolio.com/assets/155495785/d61c708f-fcdc-41c4-b2f2-d141790c6455)
 
 - [General Info](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/MySQL/README.md#general-info)
 - [Technologies](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/MySQL/README.md#technologies)
