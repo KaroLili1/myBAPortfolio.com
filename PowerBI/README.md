@@ -22,7 +22,7 @@ The aim of this project was to design a sales dashboard that analyses the sales 
 <br />
 
 > [!NOTE]
-> You can download the final ZOMATO Sales Analysis Dashboard of this project here 👉 [pdf]
+> You can download the final ZOMATO Sales Analysis Dashboard of this project here 👉 [pdf](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/PowerBI/ZomatoReport%20KaroLiLopez.pdf)
 <br />
 
 
