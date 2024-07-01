@@ -19,7 +19,7 @@ In this repository I compile the projects that I have been preparing during my l
 5. [*Brazil E-Commerce Sales Analysis.*]
 
 * ### Power BI Projects
-1. [*Zomato Data Exploration & Analysis.*]
+1. [*Zomato Data Exploration & Analysis.*](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/PowerBI/README.md#zomato-sales-analysis)
 2. [*Customer Churn Analysis.*]
 3. [*HR Analytics Dashboard.*]
 
