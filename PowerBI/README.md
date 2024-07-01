@@ -25,5 +25,7 @@ The aim of this project was to design a sales dashboard that analyses the sales 
 > You can download the final ZOMATO Sales Analysis Dashboard of this project here 👉 [pdf](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/PowerBI/ZomatoReport%20KaroLiLopez.pdf)
 <br />
 
+![image](https://github.com/KaroLili1/myBAPortfolio.com/assets/155495785/621d3149-9c06-44c2-bb7a-3c44201be426)
+
 
 Back to [Table of Contents](https://github.com/KaroLili1/myBAPortfolio.com)
