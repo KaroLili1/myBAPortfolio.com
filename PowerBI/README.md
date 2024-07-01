@@ -1,8 +1,8 @@
 # ZOMATO Sales Analysis
 
-- [General Info]()
-- [Technologies]()
-- [Tasks I have performed for this project]()
+- [General Info](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/PowerBI/README.md#general-info)
+- [Technologies](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/PowerBI/README.md#technologies)
+- [Tasks I have performed for this project](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/PowerBI/README.md#tasks-i-have-performed-for-this-project)
 ---
 
 ### **General Info**
