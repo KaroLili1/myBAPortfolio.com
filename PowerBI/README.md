@@ -1,4 +1,6 @@
-# ZOMATO Sales Analysis
+# ZOMATO Sales Analysis  ![R2](https://github.com/KaroLili1/myBAPortfolio.com/assets/155495785/83f6c919-4e67-4183-92d6-a35ff20266e3)
+
+
 
 - [General Info](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/PowerBI/README.md#general-info)
 - [Technologies](https://github.com/KaroLili1/myBAPortfolio.com/blob/main/PowerBI/README.md#technologies)
